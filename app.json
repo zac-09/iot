@@ -19,6 +19,9 @@
     "ios": {
       "supportsTablet": true
     },
+    "android": {
+      "package": "ug.zac.iot"
+    },
     "web": {
       "favicon": "./assets/favicon.png"
     }
